@@ -1,0 +1,14 @@
+C:\Users\Alonso\OneDrive - UFV\Documentos\POO\PRUEBAS\Activity_7\Activity_7\obj\Debug\net8.0\Activity_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alonso\OneDrive - UFV\Documentos\POO\PRUEBAS\Activity_7\Activity_7\obj\Debug\net8.0\Activity_7.AssemblyInfoInputs.cache
+C:\Users\Alonso\OneDrive - UFV\Documentos\POO\PRUEBAS\Activity_7\Activity_7\obj\Debug\net8.0\Activity_7.AssemblyInfo.cs
+C:\Users\Alonso\OneDrive - UFV\Documentos\POO\PRUEBAS\Activity_7\Activity_7\obj\Debug\net8.0\Activity_7.csproj.CoreCompileInputs.cache
+C:\Users\Alonso\OneDrive - UFV\Documentos\POO\PRUEBAS\Activity_7\Activity_7\bin\Debug\net8.0\Activity_7.exe
+C:\Users\Alonso\OneDrive - UFV\Documentos\POO\PRUEBAS\Activity_7\Activity_7\bin\Debug\net8.0\Activity_7.deps.json
+C:\Users\Alonso\OneDrive - UFV\Documentos\POO\PRUEBAS\Activity_7\Activity_7\bin\Debug\net8.0\Activity_7.runtimeconfig.json
+C:\Users\Alonso\OneDrive - UFV\Documentos\POO\PRUEBAS\Activity_7\Activity_7\bin\Debug\net8.0\Activity_7.dll
+C:\Users\Alonso\OneDrive - UFV\Documentos\POO\PRUEBAS\Activity_7\Activity_7\bin\Debug\net8.0\Activity_7.pdb
+C:\Users\Alonso\OneDrive - UFV\Documentos\POO\PRUEBAS\Activity_7\Activity_7\obj\Debug\net8.0\Activity_7.dll
+C:\Users\Alonso\OneDrive - UFV\Documentos\POO\PRUEBAS\Activity_7\Activity_7\obj\Debug\net8.0\refint\Activity_7.dll
+C:\Users\Alonso\OneDrive - UFV\Documentos\POO\PRUEBAS\Activity_7\Activity_7\obj\Debug\net8.0\Activity_7.pdb
+C:\Users\Alonso\OneDrive - UFV\Documentos\POO\PRUEBAS\Activity_7\Activity_7\obj\Debug\net8.0\Activity_7.genruntimeconfig.cache
+C:\Users\Alonso\OneDrive - UFV\Documentos\POO\PRUEBAS\Activity_7\Activity_7\obj\Debug\net8.0\ref\Activity_7.dll

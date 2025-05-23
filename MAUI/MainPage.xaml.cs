@@ -22,7 +22,7 @@ public partial class MainPage : ContentPage
 			return;
 		}
 
-		string filePath = Path.Combine(FileSystem.AppDataDirectory, "users.csv");
+		string filePath = "users.csv";
 
 		if (!File.Exists(filePath))
 		{

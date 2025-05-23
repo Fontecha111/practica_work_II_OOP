@@ -51,7 +51,7 @@ public partial class RegisterPage : ContentPage
             return;
         }
 
-        string filePath = Path.Combine(FileSystem.AppDataDirectory, "users.csv");
+        string filePath = "users.csv";
 
         bool fileExists = File.Exists(filePath);
         using (var writer = new StreamWriter(filePath, append: true))
