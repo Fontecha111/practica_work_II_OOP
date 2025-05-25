@@ -65,4 +65,8 @@ public partial class MainPage : ContentPage
 	{
 		await Navigation.PushAsync(new CalculatorPage());
 	}
+
+	
+
+
 }            

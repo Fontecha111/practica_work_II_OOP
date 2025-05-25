@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alonso\\OneDrive - UFV\\Escritorio\\MAUI\\practica_work_II_OOP\\MAUI\\MAUI.csproj": {}
+    "C:\\Users\\Alonso\\Downloads\\practical_work_ii_oop\\MAUI\\MAUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alonso\\OneDrive - UFV\\Escritorio\\MAUI\\practica_work_II_OOP\\MAUI\\MAUI.csproj": {
+    "C:\\Users\\Alonso\\Downloads\\practical_work_ii_oop\\MAUI\\MAUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alonso\\OneDrive - UFV\\Escritorio\\MAUI\\practica_work_II_OOP\\MAUI\\MAUI.csproj",
+        "projectUniqueName": "C:\\Users\\Alonso\\Downloads\\practical_work_ii_oop\\MAUI\\MAUI.csproj",
         "projectName": "MAUI",
-        "projectPath": "C:\\Users\\Alonso\\OneDrive - UFV\\Escritorio\\MAUI\\practica_work_II_OOP\\MAUI\\MAUI.csproj",
+        "projectPath": "C:\\Users\\Alonso\\Downloads\\practical_work_ii_oop\\MAUI\\MAUI.csproj",
         "packagesPath": "C:\\Users\\Alonso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alonso\\OneDrive - UFV\\Escritorio\\MAUI\\practica_work_II_OOP\\MAUI\\obj\\",
+        "outputPath": "C:\\Users\\Alonso\\Downloads\\practical_work_ii_oop\\MAUI\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

@@ -63,13 +63,16 @@ public partial class RegisterPage : ContentPage
         }
 
         await DisplayAlert("Success", "User registered successfully!", "OK");
-        await Navigation.PushAsync(new MainPage()); // Back to Login
+        await Navigation.PushAsync(new MainPage()); //This will make you go back to the Main Page
     }
 
     private bool IsValidPassword(string password)
     {
-        var pattern = @"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[^A-Za-z\d]).{8,}$";
-        return Regex.IsMatch(password, pattern);
+        return password.Length >= 8 &&
+               password.IndexOfAny("ABCDEFGHIJKLMNOPQRSTUVWXYZ".ToCharArray()) >= 0 &&
+               password.IndexOfAny("abcdefghijklmnopqrstuvwxyz".ToCharArray()) >= 0 &&
+               password.IndexOfAny("0123456789".ToCharArray()) >= 0 &&
+               password.IndexOfAny("!@#€&%/".ToCharArray()) >= 0;
     }
 
     private async void OnGoToLoginTapped(object sender, EventArgs e)
